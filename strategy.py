@@ -1,0 +1,1 @@
+def analyze(): return True
